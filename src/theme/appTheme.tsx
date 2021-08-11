@@ -14,7 +14,9 @@ export const styles = StyleSheet.create({
     texto : {
         color: 'white',
         fontSize: 60,
-        textAlign: 'right'
+        textAlign: 'right',
+        marginBottom: 10
+        
     },
     resultadoPequeño : {
         fontSize: 40,
@@ -31,7 +33,7 @@ export const styles = StyleSheet.create({
         marginHorizontal: 10
     },
     botonTexto: {
-        fontSize: 30,
+        fontSize: 35,
         fontWeight:"300",
         color: "white"
     },
